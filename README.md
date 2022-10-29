@@ -1,5 +1,6 @@
 # Crying_Obsidian_Hackathon3
 ---
+# How does the system work? (in brief)
 After the police investigation for the digital evidence, the authorized investigator can able provide the sensitive forensic image as input to the system then the system will classify the evidence according to the pre-trained deep learning model.
 
 After that, the image will be stored in the IPFS storage with the important details such as case number, insertion time, case details, etc. This is how we will obtain the documentation and classification features of Digital forensics.
