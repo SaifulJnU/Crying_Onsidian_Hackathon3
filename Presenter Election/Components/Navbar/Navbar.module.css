@@ -1,0 +1,29 @@
+.btn{
+    height: 40px;
+    width: 150px;
+    background-color: crimson;
+    border: none;
+    border-radius: 6px;
+   transition: all .2s ease;
+   color: #ffffff;
+   cursor: pointer;
+}
+.btn:hover{
+   transform: scale(1.1);
+}
+.contain{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    box-shadow: 2px 2px 2px lightgray;
+}
+.text{
+    font-weight: 500;
+    font-size: large;
+}
+.text:hover{
+    box-shadow: 2px 2px 2px 2px lightgray;
+    padding: 5px 5px;
+    border-radius: 6px;
+}

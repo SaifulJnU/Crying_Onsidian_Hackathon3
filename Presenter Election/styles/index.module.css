@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    background-color: #fff0f3;
+   height: 100vh;
+   padding-top: 50px;
+  
+
+}
+.card{
+    height: 300px;
+    width: 400px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.btn{
+    height: 40px;
+    width: 150px;
+    background-color: crimson;
+    border: none;
+    border-radius: 6px;
+   transition: all .2s ease;
+   color: #ffffff;
+   cursor: pointer;
+}
+.btn:hover{
+   transform: scale(1.1);
+}
+
+.wallet{
+    background-color: #ffffff;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px lightgray;
+     height: 400px;
+    width: 500px;
+    text-align:center ;
+    
+    
+}
