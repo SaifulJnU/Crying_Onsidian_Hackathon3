@@ -39,7 +39,18 @@ Then the system admin can able to set the documentation of the evidence (This ev
 ---
 ![Screenshot (2968)](https://user-images.githubusercontent.com/47039014/198813704-c546b6f5-0f27-4ec1-a794-2ab6aebc0d40.png)
 
+# For access control
+In this fragment of this project we are ensuring the access control through the voting system.
+now to run this fragment you need to write following command
 
+```
+    npm install
+    npm run dev
+    
+```
+here is the same analogy for url and UI
 
-
+---
+![313185468_691948895417370_7298643241678836446_n](https://user-images.githubusercontent.com/47039014/198816218-c09badb4-3c7b-44e7-9bbf-7071356ac266.png)
+---
 
