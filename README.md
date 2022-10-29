@@ -14,7 +14,7 @@ At first install the flask & Keras model then run the following command
 python app.py
 ```
 Now you will find a url in the command promt . Then just go through the Image Classification UI. To classify the image you need to insert image as a input.
-
+![image](https://user-images.githubusercontent.com/47039014/198812618-b47c60dd-c4e3-4aa5-a038-b26ce3fa594b.png)
 
 # To secure the classified evidence
 Now for securing the classified image through BlockChain we need to follow the rules and run the command .
@@ -28,3 +28,17 @@ npm start
 
 Now you will have a url in the command promt . Then just go through the Decentralised Storage for Digital Forencics Evidence.
 Then the system admin can able to set the documentation of the evidence (This evdence will be stored in IPFS)
+
+---
+![Screenshot (2967)](https://user-images.githubusercontent.com/47039014/198813655-72d79c85-6366-4bf8-a7c9-f207483641ed.png)
+---
+![Screenshot (2966)](https://user-images.githubusercontent.com/47039014/198813681-c8b568dc-79d7-41b5-8de8-1a2732b8568e.png)
+---
+![Screenshot (2969)](https://user-images.githubusercontent.com/47039014/198813695-f1f08ef7-9d9d-4872-b375-ebb2c0d51b66.png)
+---
+![Screenshot (2968)](https://user-images.githubusercontent.com/47039014/198813704-c546b6f5-0f27-4ec1-a794-2ab6aebc0d40.png)
+
+
+
+
+
